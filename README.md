@@ -1,4 +1,4 @@
-# Hi 👋, I'm Matheus Tadeu! 👋
+# Hi, I'm Matheus Tadeu! 👋
 **(PHP | Laravel | Java | Spring Boot | AWS | Docker | Kubernetes)** 🚀
 
 👨‍💻 **Back-end Developer** at **[Movida Aluguel de Carros](https://www.movida.com.br/)**   
