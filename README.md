@@ -1,5 +1,5 @@
 # Hi 👋, I'm Matheus Tadeu! 👋
-**(PHP | Laravel | Java | Spring Boot | AWS | MongoDB | Docker | Kubernetes)** 🚀
+**(PHP | Laravel | Java | Spring Boot | AWS | Docker | Kubernetes)** 🚀
 
 👨‍💻 **Back-end Developer** at **[Movida Aluguel de Carros](https://www.movida.com.br/)**   
 🎓 **Software Architecture Student** at **[FIAP](https://www.fiap.com.br/)**  
