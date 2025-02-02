@@ -1,7 +1,7 @@
 # Hi, I'm Matheus Tadeu! 👋
 **(PHP | Laravel | Java | Spring Boot | AWS | Docker | Kubernetes)** 🚀
 
-👨‍💻 **Back-end Developer** at **[Movida Aluguel de Carros](https://www.movida.com.br/)**   
+👨‍💻 **Senior Software Engineer** at **[Kanastra](https://www.kanastra.com.br/)**   
 🎓 **Software Architecture Student** at **[FIAP](https://www.fiap.com.br/)**  
 💡 **Passionate about clean architecture** and **design patterns**  
 
